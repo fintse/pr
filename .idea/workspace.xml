@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f713d7-1931-4111-b210-ee36c19b0ea9" name="Default Changelist" comment="1st" />
+    <list default="true" id="15f713d7-1931-4111-b210-ee36c19b0ea9" name="Default Changelist" comment="1st">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Wсайт/assets/style-sheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Wсайт/assets/style-sheets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Wсайт/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Wсайт/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Часть 2/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Часть 2/ex2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
     <property name="settings.editor.splitter.proportion" value="0.25118482" />
   </component>
   <component name="RunManager">
@@ -66,7 +81,8 @@
       <workItem from="1599747517866" duration="1135000" />
       <workItem from="1599748677268" duration="1001000" />
       <workItem from="1599749697127" duration="33000" />
-      <workItem from="1599749749064" duration="484000" />
+      <workItem from="1599749749064" duration="5064000" />
+      <workItem from="1600181562073" duration="3582000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1599750232090</created>
@@ -75,32 +91,59 @@
       <option name="project" value="LOCAL" />
       <updated>1599750232090</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st">
+      <created>1599750487267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599750487267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st" />
     <option name="LAST_COMMIT_MESSAGE" value="1st" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="129" key="FileChooserDialogImpl" timestamp="1599750092990">
+    <state x="430" y="129" key="FileChooserDialogImpl" timestamp="1599750549410">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="430" y="129" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599750092990" />
+    <state x="430" y="129" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599750549410" />
     <state x="480" y="266" key="Github.CreateGistDialog" timestamp="1599748421509">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1599748421509" />
-    <state x="238" y="20" width="1072" height="708" key="SettingsEditor" timestamp="1599750051189">
+    <state x="163" y="20" width="1072" height="708" key="SettingsEditor" timestamp="1599751483657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="238" y="20" width="1072" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599750051189" />
+    <state x="163" y="20" width="1072" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599751483657" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599751220241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599751220241" />
     <state x="455" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599750179365">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="455" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599750179364" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599751164072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599751164072" />
   </component>
 </project>
